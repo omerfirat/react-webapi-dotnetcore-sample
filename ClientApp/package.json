@@ -16,7 +16,7 @@
     "fetch-polyfill": "^0.8.2",
     "g": "^2.0.1",
     "isomorphic-fetch": "^2.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "material-table": "^1.57.2",
     "merge": "^1.2.1",
     "oidc-client": "^1.9.0",
